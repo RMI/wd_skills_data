@@ -24,6 +24,8 @@ exec(open('wd_skills_data/wd_languages.py').read())
 # Licenses
 exec(open('wd_skills_data/rmi_license_import.py').read())
 
+# GenAI licenses
+exec(open('wd_skills_data/rmi_genai_license.py').read())
 
 # Skill migration
 exec(open('wd_skills_data/wd_skills_migration.py').read())
